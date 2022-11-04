@@ -8,7 +8,8 @@ before running you need to install the requirements (libraries)
 
 pip install -r requirement.txt
 
-to execute the program you need to type
+#Executing
+
 cd PhoneScan
 python PhoneScan.py
 
