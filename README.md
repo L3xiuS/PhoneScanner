@@ -30,7 +30,7 @@ you should type the country code before the rest of the number, if you type a ch
 
 before running you need to install the requirements (libraries)
 
-`pip install -r requirement.txt`
+`pip install -r requirements.txt`
 
 #  Installing & Executing
 
