@@ -8,11 +8,11 @@ before running you need to install the requirements (libraries)
 
 pip install -r requirement.txt
 
-#Executing
+# Executing
 
 cd PhoneScan
 python PhoneScan.py
 
 # Supported Version
-Python3.10 or higther
+Python3 - 3.10 or higther
 
