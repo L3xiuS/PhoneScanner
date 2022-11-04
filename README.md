@@ -29,6 +29,7 @@ before running you need to install the requirements (libraries)
 #  Installing & Executing
 
 `git clone https://github.com/L3xiuS/PhoneScanner.git`
+
 `cd PhoneScan`
 
 `python PhoneScan.py`
