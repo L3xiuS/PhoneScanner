@@ -19,6 +19,12 @@ this software support over 13 language.
 -----------------------------------------
 ```
 
+# Example usage (Korea)
+
+![example2](https://user-images.githubusercontent.com/101345730/200019210-2ef03ee7-65fd-4f83-a597-309111da12ac.png)
+
+
+
 # Important
 you should type the country code before the rest of the number, if you type a character like "ABcdefg'('-'t"rtyumll;;" instead of phone number the program will crash.
 
