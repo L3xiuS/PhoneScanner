@@ -26,8 +26,9 @@ before running you need to install the requirements (libraries)
 
 `pip install -r requirement.txt`
 
-# Executing
+#  Installing & Executing
 
+`git clone https://github.com/L3xiuS/PhoneScanner.git`
 `cd PhoneScan`
 
 `python PhoneScan.py`
