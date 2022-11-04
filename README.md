@@ -34,6 +34,11 @@ before running you need to install the requirements (libraries)
 
 `python PhoneScan.py`
 
+# Ressources, Documentations
+- [phonenumber]
+- [mobileno]
+- [learn Python](https://www.python.org/about/gettingstarted/)
+
 # Supported Version
 Python3 - 3.10 or higther
 
