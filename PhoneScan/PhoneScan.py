@@ -25,7 +25,7 @@ print("""
 """)
 
 print("Phone Scan is a simple tool that allows you to scan Mobile phone numbers\n"
-"and display the telephone operators associated with the number\n")
+"and display the operators associated with the number\n")
 
 print("-----------------------------------------")
 print("1 - China(+86)")
