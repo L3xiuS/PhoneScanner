@@ -38,6 +38,8 @@ before running you need to install the requirements (libraries)
 
 `cd /PhoneScanner/PhoneScan`
 
+`chmod +× PhoneScan.py`
+
 `python PhoneScan.py`
 
 # Ressources, Documentations
