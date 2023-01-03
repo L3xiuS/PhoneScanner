@@ -36,7 +36,7 @@ before running you need to install the requirements (libraries)
 
 `git clone https://github.com/L3xiuS/PhoneScanner.git`
 
-`cd /PhoneScanner/PhoneScan`
+`cd /PhoneScanner/PhoneScan/`
 
 `chmod +× PhoneScan.py`
 
