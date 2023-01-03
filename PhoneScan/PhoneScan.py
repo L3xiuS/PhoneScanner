@@ -1,4 +1,3 @@
-#!/usr/bin/venv python3.10
 import phonenumbers
 import os
 import time
