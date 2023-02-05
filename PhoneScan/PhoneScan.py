@@ -285,15 +285,4 @@ if option == "14":
     print("Exit")
     os.system('clear')
     os.system('exit')
-
-
-
-
-
-
-
-
-
-
-
-
+    
