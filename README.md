@@ -1,6 +1,6 @@
 # PhoneScanner
-PhoneScan is a simple tool that allows you to scan mobile phone numbers and display the operators associated with the number
-this software support over 13 language.
+PhoneScan is a simple tool that allows you to scan mobile phone numbers and display the provider and the number.
+This software support over 13 language.
 
 ```
 -----------------------------------------
