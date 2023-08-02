@@ -57,6 +57,11 @@ before running you need to install the requirements (libraries)
 - [Install Python Windows](https://www.python.org/downloads/windows/)
 - [learn Python](https://www.python.org/about/gettingstarted/)
 
+# Help !
+
+![photo_5931723227804056952_y](https://github.com/L3xiuS/PhoneScanner/assets/101345730/15bce938-aff9-4c50-b18c-a3d54a9ac501)
+
+
 # Supported Version
 Python3 - 3.10 or higther
 
