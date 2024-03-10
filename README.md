@@ -19,18 +19,6 @@ This software support over 13 language.
 -----------------------------------------
 ```
 
-#  DISCLAIMER - Before you use 
-
-This software was developed for open source research (OSINT)only, it is deployed in a controlled environment. Any use or misuse of its features engages only your responsibility. It is recommended to use this software in a personal capacity and not towards an entity or non-consenting person. Otherwise, sanctions will be applied according to the judicial system of your country. Our technical team does not assume responsibility or its misuse under any circumstances. You are alone in the face of your actions.
-
-# Example usage (Korea)
-
-![example2](https://user-images.githubusercontent.com/101345730/200019210-2ef03ee7-65fd-4f83-a597-309111da12ac.png)
-
-# Demo video
-
-https://imgur.com/a/JmV7lLb
-
 # Important
 
 you should type the country code before the rest of the number, if you type a character like "ABcdefg'('-'t"rtyumll;;" instead of phone number the program will crash.
